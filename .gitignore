@@ -1,4 +1,4 @@
 # Byte-compiled
 *.py[cod]
 *.py~
-*~
+*/*~
