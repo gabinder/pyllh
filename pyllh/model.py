@@ -121,7 +121,6 @@ class LikelihoodFit(object):
         self.minuit.fixed = fixed0.copy()
         return llh
 
-
     def profile_CI_1d(self,param,CL):
         """
         Calculate approximate Wilks' confidence intervals
