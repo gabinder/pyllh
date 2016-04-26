@@ -1,4 +1,0 @@
-import numpy as npj
-from inspect import getargspec
-import iminuit
-
